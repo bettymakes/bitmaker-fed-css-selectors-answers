@@ -1,2 +1,13 @@
 /* Move your styles here when you're ready to clean up your HTML file */
 /* Don't forget to link to this file in your HTML, otherwise your styles won't show up! */
+html, body {
+  font-size: 18px;
+}
+
+h1, h2 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+header {
+  border-bottom: 5px solid aquamarine;
+}

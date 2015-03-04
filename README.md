@@ -1,6 +1,6 @@
 ## Answers: CSS Selectors Assignment
 ####A reference for Bitmaker FED Students
-####[Click here](https://github.com/upstage/ "Check it out!") to view the assignment in all it's glory
+####[Click here](http://bettymakes.github.io/bitmaker-fed-css-selectors-answers/ "Check it out!") to view the assignment in all it's glory
 ___
 
 ### Assignment Overview

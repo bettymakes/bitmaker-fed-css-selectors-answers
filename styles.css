@@ -1,5 +1,9 @@
 /* Move your styles here when you're ready to clean up your HTML file */
 /* Don't forget to link to this file in your HTML, otherwise your styles won't show up! */
+
+/**************************************************************************
+    TAG SELECTORS 
+**************************************************************************/
 html, body {
   font-size: 18px;
 }
@@ -12,6 +16,9 @@ header {
   border-bottom: 5px solid aquamarine;
 }
 
+/**************************************************************************
+    CLASS SELECTORS 
+**************************************************************************/
 .class-list {
   list-style-type: square;
 }
@@ -29,6 +36,9 @@ header {
   color: white;
 }
 
+/**************************************************************************
+    ID SELECTORS 
+**************************************************************************/
 #item1 {
   font-size: 30px;
 }
@@ -37,6 +47,9 @@ header {
   text-align: right;
 }
 
+/**************************************************************************
+    ADVANCED SELECTORS 
+**************************************************************************/
 #advanced-selectors > ol > li {
   padding: 10px;
   background-color: grey;
@@ -57,3 +70,4 @@ header {
 #advanced-selectors ul li > a:active{
   background-color: red;
 }
+

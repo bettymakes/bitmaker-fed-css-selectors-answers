@@ -1,5 +1,6 @@
-## Answers for Bitmaker FED Students
-CSS Selectors Assignment
+## Answers: CSS Selectors Assignment
+###A reference for Bitmaker FED Students
+
 
 ### Assignment Overview
 

@@ -1,6 +1,6 @@
-# CSS Fundamentals
+# Answers: Bitmaker's FED - CSS Selectors Assignment
 
-## Agenda
+## Assignment Overview
 
 1. [Selectors](#selectors)
 2. [The Cascade](#the-cascade)
